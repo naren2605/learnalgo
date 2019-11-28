@@ -1,2 +1,2 @@
 Initial setup
-[test link](./Test)
+[test link](../Test)
