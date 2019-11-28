@@ -1,2 +1,2 @@
 Initial setup
-[test link](./learnalgo/Test)
+[test link](Test.md)
