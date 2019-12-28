@@ -1,2 +1,2 @@
-Initial setup
-[test link](Test.md)
+Solutions
+[project_euler_problem_33](EulerDigitCancellingFractions.md)
